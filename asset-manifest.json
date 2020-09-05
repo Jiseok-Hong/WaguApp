@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/WaguApp/static/js/main.c27ca486.chunk.js",
+    "main.js.map": "/WaguApp/static/js/main.c27ca486.chunk.js.map",
+    "runtime-main.js": "/WaguApp/static/js/runtime-main.5dfdc7e2.js",
+    "runtime-main.js.map": "/WaguApp/static/js/runtime-main.5dfdc7e2.js.map",
+    "static/js/2.548da76c.chunk.js": "/WaguApp/static/js/2.548da76c.chunk.js",
+    "static/js/2.548da76c.chunk.js.map": "/WaguApp/static/js/2.548da76c.chunk.js.map",
+    "index.html": "/WaguApp/index.html",
+    "precache-manifest.39139aea376fb1c59c5dd9a48a539484.js": "/WaguApp/precache-manifest.39139aea376fb1c59c5dd9a48a539484.js",
+    "service-worker.js": "/WaguApp/service-worker.js",
+    "static/js/2.548da76c.chunk.js.LICENSE.txt": "/WaguApp/static/js/2.548da76c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5dfdc7e2.js",
+    "static/js/2.548da76c.chunk.js",
+    "static/js/main.c27ca486.chunk.js"
+  ]
+}
